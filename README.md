@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Hulu Clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A BRIEF OVERVIEW
 
-## Available Scripts
+💎HULU CLONE APP IS BASICALLY A MOVIES-APP THAT USES MOVIEDB API TO FETCH THE DETAILS OF THE MOVIES,ITS DESCRIPTION,ITS IMAGE,ITS SOURCE LINK.ETC.THIS APP HAS A ATTRACTIVE AND RESPONSIVE UI THAT SUPPORTS THE NAVIGATION TO DIFFERENT MOVIES BASED ON CATEGORIES💎
 
-In the project directory, you can run:
 
-### `npm start`
+## 🏳️ TECHNOLOGIES  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- API USED -> MOVIEDB API 
+- TO FETCH DATA THROUGH API - AXIOS LIBRARY IN REACT JS
+- REACTJS
+- MATERIAL UI 
+- HTML
+- CSS
+- JAVASCRIPT
+- FIREBASE(HOSTING ONLY)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# FEATURES
+ ✅RESPONSIVE WEBAPP
+ ✅DIFFERENT CATEGORIES
+ ✅REAL TIME DATA
+ ✅ATTRACTIVE UI
+ 
 
-### `npm test`
+# DEMO   
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+LINK : https://hulu-clone-45264.web.app/
 
-### `npm run build`
+https://user-images.githubusercontent.com/65156793/125091250-186cfc80-e085-11eb-8f0d-cb3dcbd31067.mp4
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# SCREENSHOTS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+![HULU - Google Chrome 09-07-2021 19_44_00](https://user-images.githubusercontent.com/65156793/125091874-a648e780-e085-11eb-91ee-d3f0c4f8bf6a.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![HULU - Google Chrome 09-07-2021 19_44_15](https://user-images.githubusercontent.com/65156793/125091885-a8ab4180-e085-11eb-8303-cd2672eca136.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+# USAGE 
+Fork or download this repo , move inside and run:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+https://user-images.githubusercontent.com/65156793/125091217-1440df00-e085-11eb-9747-3d6cae5dfecc.mp4
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+npm install
+npm start
+```
+Open development build on http://localhost:3000/
 
-### Analyzing the Bundle Size
+**TO DEPLOY** :
+```
+npm run build
+npm install -g serve
+serve -s build
+```
+Open production build on http://localhost:5000/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Or copy to a Web Server
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
