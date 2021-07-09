@@ -45,8 +45,6 @@ Fork or download this repo , move inside and run:
 
 
 
-https://user-images.githubusercontent.com/65156793/125091217-1440df00-e085-11eb-9747-3d6cae5dfecc.mp4
-
 ```
 npm install
 npm start
